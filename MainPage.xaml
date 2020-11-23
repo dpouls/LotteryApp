@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lottery.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Text="Dallin's Lotto Game"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           Grid.ColumnSpan="2"
+           FontSize="25"/>
+        <Label Text="Lottery Numbers"
+           Grid.Row="1"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label x:Name="lotto1"
+           Text="0"
+           Grid.Row="2"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label x:Name="lotto2"
+           Text="0"
+           Grid.Row="3"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label x:Name="lotto3"
+           Text="0"
+           Grid.Row="4"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label x:Name="lotto4"
+           Text="0"
+           Grid.Row="5"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label x:Name="lotto5"
+           Text="0"
+           Grid.Row="6"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Label Text="Enter Guesses"
+           Grid.Row="1"
+           Grid.Column="1"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"/>
+        <Entry x:Name="EntryGuess1"
+           Grid.Row="2"
+           Grid.Column="1"
+           Placeholder="Guess 1"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"/>
+        <Entry x:Name="EntryGuess2"
+           Grid.Row="3"
+           Grid.Column="1"
+           Placeholder="Guess 2"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"/>
+        <Entry x:Name="EntryGuess3"
+           Grid.Row="4"
+           Grid.Column="1"
+           Placeholder="Guess 3"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"/>
+        <Entry x:Name="EntryGuess4"
+           Grid.Row="5"
+           Grid.Column="1"
+           Placeholder="Guess 4"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"/>
+        <Entry x:Name="EntryGuess5"
+           Grid.Row="6"
+           Grid.Column="1"
+           Placeholder="Guess51"
+           VerticalOptions="Center"
+           HorizontalOptions="Center"/>
+        <Button x:Name="BtnPlay"
+            Text="Play Game"
+            Grid.Row="7"
+            Grid.ColumnSpan="2"
+            FontSize="25"
+            Clicked="BtnPlay_Clicked"/>
+    </Grid>
+
+
+</ContentPage>

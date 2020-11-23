@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.AssemblyInfo.cs
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.dll
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\ref\Lottery.dll
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\Lottery.pdb
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\bin\Debug\netstandard2.0\Lottery.deps.json
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\bin\Debug\netstandard2.0\Lottery.dll
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\bin\Debug\netstandard2.0\ref\Lottery.dll
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\bin\Debug\netstandard2.0\Lottery.pdb
+C:\Users\dalli\source\repos\Lottery\Lottery\Lottery\obj\Debug\netstandard2.0\XamlC.stamp
